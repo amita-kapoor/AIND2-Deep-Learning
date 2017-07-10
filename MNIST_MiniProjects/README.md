@@ -1,5 +1,5 @@
 # aind2-dl
-
+# The directory was originally forked from Udacity-aind2-dl.git
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
